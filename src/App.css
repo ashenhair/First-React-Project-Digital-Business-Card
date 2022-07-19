@@ -1,0 +1,87 @@
+	
+
+div {
+    margin: 0 auto;
+    background:white;
+    text-align: center;
+	justify-content: center;
+    align-items: center;
+	width: 320px;
+	border-radius: 10px;
+   
+   
+  
+}
+
+
+
+.info-monalisa {
+    max-width: 100%;
+	border-radius: 10px;
+   
+	
+} 
+
+
+
+.info-name {
+    font-size: 33px;
+	color: #060112;
+	margin: 0 auto;
+	font-weight: 400;
+}
+
+
+.info-job {
+    font-size: 23px;
+	color: #060112;
+	margin: 0 auto;
+   
+}
+
+.info-website {
+    font-size: 20px;
+	color: #810808;
+	margin: 8px auto;
+	font-weight: 400;
+    text-decoration: inherit;
+
+}
+
+.info--buttons--mail,
+.info--buttons--linkedin  {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 45px;
+    height: 40px;
+    margin: 0px 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+   
+
+
+link {
+    text-decoration: none;
+
+}
+
+.footer {
+    
+   
+    width: 317px;
+    height: 64px;
+    left: 116px;
+    top: 760px;
+    margin: auto;
+    
+    background: #D5D4D8;
+    border-radius: 10px;
+}
+
+.footer > img {
+    margin: 16px 20px auto 30px;
+    border-radius: 0;
+}

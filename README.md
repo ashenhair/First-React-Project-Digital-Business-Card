@@ -1,9 +1,10 @@
 React projects from Scrimba
 
 Built using HTML, CSS, Javascript, & React.
+![Ekran Alıntısı](https://user-images.githubusercontent.com/100282383/205596110-5e1b1cba-0ae7-459f-b755-92e9db205e22.JPG)
 
 
-![mona](https://user-images.githubusercontent.com/100282383/197495430-fbb91336-dacb-41ec-99f4-405c643a4386.png)
+
 
 # Getting Started with Create React App
 
